@@ -1,0 +1,5 @@
+{
+  "name": "KONE Flow Elevator Simulator",
+  "description": "A conceptual interface for controlling KONE elevators and escalators using simulated APIs and Gemini AI for natural language commands.",
+  "requestFramePermissions": []
+}
